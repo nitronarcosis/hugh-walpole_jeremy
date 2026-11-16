@@ -38,6 +38,8 @@
 		<meta property="term" refines="#subject-2">sh2007101907</meta>
 		<meta property="schema:genre">TAG</meta>
 		<meta property="schema:abstract">DESCRIPTION</meta>
+		<meta property="belongs-to-collection" id="Jeremy-1">Jeremy</meta>
+		<meta property="collection-type" refines="Jeremy-1">series</meta>
 		<dc:description>
 			LONG_DESCRIPTION
 		</dc:description>
